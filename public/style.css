@@ -69,7 +69,6 @@ textarea {
   padding-bottom: 25px;
 }
 
-
 .news-item {
   padding: 0 15px;
 }
@@ -80,4 +79,18 @@ textarea {
 
 .news-info {
   margin-left: 40px;
+}
+
+.author {
+  color: grey;
+}
+
+.post {
+  width: 85%;
+  margin: 12px auto;
+}
+
+.content {
+  padding: 5px 10px 20px 20px;
+  background-color: #f6f6ef;
 }
