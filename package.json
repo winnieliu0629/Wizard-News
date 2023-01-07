@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start:dev": "nodemon app.js",  // this is new
-    "start": "node app.js"  // this is changed
+    "start": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
